@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Project Zero</string>
+    <string name="app_heading">Nanodegree Course Projects</string>
+    <string name="project_1">Popular Movies</string>
+    <string name="project_2">Stock Hawk</string>
+    <string name="project_3">Build it Bigger</string>
+    <string name="project_4">Go Ubiquitous</string>
+    <string name="project_5">Capstone</string>
+
+    <string name="toast_msg1">This button will launch my Popular Movies app</string>
+    <string name="toast_msg2">This button will launch my Stock Hawk app</string>
+    <string name="toast_msg3">This button will launch my Build it Bigger app</string>
+    <string name="toast_msg4">This button will launch my Go Ubiquitous app</string>
+    <string name="toast_msg5">This button will launch my Capstone app</string>
+
+</resources>
